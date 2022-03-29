@@ -42,7 +42,7 @@ namespace mimimetrrr
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(306, 35);
+            this.label2.Location = new System.Drawing.Point(616, 41);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(89, 20);
             this.label2.TabIndex = 8;
@@ -51,7 +51,7 @@ namespace mimimetrrr
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(177, 68);
+            this.label1.Location = new System.Drawing.Point(476, 79);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(369, 20);
             this.label1.TabIndex = 9;
@@ -60,9 +60,9 @@ namespace mimimetrrr
             // pictureBox1
             // 
             this.pictureBox1.Image = global::mimimetrrr.Properties.Resources._1;
-            this.pictureBox1.Location = new System.Drawing.Point(76, 131);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 131);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(256, 221);
+            this.pictureBox1.Size = new System.Drawing.Size(650, 467);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
@@ -70,9 +70,9 @@ namespace mimimetrrr
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(457, 131);
+            this.pictureBox2.Location = new System.Drawing.Point(689, 131);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(256, 221);
+            this.pictureBox2.Size = new System.Drawing.Size(650, 467);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 11;
             this.pictureBox2.TabStop = false;
@@ -81,7 +81,7 @@ namespace mimimetrrr
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(168, 378);
+            this.label3.Location = new System.Drawing.Point(321, 614);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 20);
             this.label3.TabIndex = 12;
@@ -90,7 +90,7 @@ namespace mimimetrrr
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(558, 378);
+            this.label4.Location = new System.Drawing.Point(974, 614);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(50, 20);
             this.label4.TabIndex = 13;
@@ -100,7 +100,7 @@ namespace mimimetrrr
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1351, 695);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.pictureBox2);
